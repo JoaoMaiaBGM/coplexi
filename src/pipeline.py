@@ -1,0 +1,14 @@
+import json
+
+from models.train import train_model
+from models.predict import predict_transactions
+
+if __name__ == "__main__":
+    with open("src/data/output.json", "r") as f:
+        data = json.load(f)
+
+    transactions = data["output"]["transactions"]
+
+    w2v_model, clf = train_model(transactions)
+
+    predict_transactions(transactions, w2v_model, clf, limit=50)

@@ -1,0 +1,513 @@
+{
+    "output": {
+        "transactions": [
+            {
+                "date": "2024-04-05",
+                "description": "BKOFAMERICA MOBILE 04/05 3900761234 DEPOSIT",
+                "amount": 9000.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-08",
+                "description": "Online Banking Transfer Conf# Ikaw7j6m0; LANNISTER, TYWIN",
+                "amount": 2000.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-08",
+                "description": "Online Banking transfer from SAV 1234 Confirmation# 7341811234",
+                "amount": 30.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-03-26",
+                "description": "E-ZPASS REBILL DES:EZP REBILL ID:2018876 INDN:JON *SNOW CO",
+                "amount": -4.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-03-27",
+                "description": "CHECKCARD 0327 GOOGLE *Google Storage 855-836-3987 CA 24692164087108486320595",
+                "amount": -31.89,
+                "account": "4567"
+            },
+            {
+                "date": "2024-03-27",
+                "description": "CHECKCARD 0326 GOOGLE *Google Store 855-836-3987 CA 24692164086108195680157 RECURRING",
+                "amount": -7.44,
+                "account": "4567"
+            },
+            {
+                "date": "2024-03-27",
+                "description": "CHECKCARD 0326 EXXON HOOKS LANE PIKESVILLE MD 24003224087752005608562",
+                "amount": -51.13,
+                "account": "4567"
+            },
+            {
+                "date": "2024-03-27",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 03/27/24",
+                "amount": -1.54,
+                "account": "4567"
+            },
+            {
+                "date": "2024-03-29",
+                "description": "PAYPAL DES:INST XFER ID:MAX INDN:JON SNOW CO ID:PAYPALSI77 WEB",
+                "amount": -10.62,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "CHECKCARD 0329 BUBBLE BEE -VA 131-27305592 IL 24492164089000014477973",
+                "amount": -9.93,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "CHECKCARD 0329 NYTimes*NYTimes 800-698-4637 NY 24692164089100516838066 RECURRING",
+                "amount": -17.17,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "CHECKCARD 0329 RAPPAHANNOCK GOODWILL I FREDERICKSBURVA",
+                "amount": -16.29,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "CHECKCARD 0329 POKE FREDRICKSBURG INC FREDERICKSBURVA",
+                "amount": -26.88,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "CHECKCARD 0329 KOKEE TEA FREDERICKSBRGVA",
+                "amount": -16.11,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "CHECKCARD 0330 GOOGLE *NAVER WEBTOON 855-836-3987 CA 24692164090101337804656",
+                "amount": -1.05,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "CHECKCARD 0330 MDM AUNTIE ANNES ABERDEEN MD",
+                "amount": -7.29,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "CHECKCARD 0331 GOOGLE *NAVER WEBTOON 855-836-3987 CA 24692164091101960891334",
+                "amount": -1.05,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "CHECKCARD 0331 GOOGLE *NAVER WEBTOON 855-836-3987 CA 24692164091101962011378",
+                "amount": -5.31,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "CHECKCARD 0331 ADOBE *ADOBE 408-536-6000 CA 24492154091713973158841 RECURRING",
+                "amount": -10.62,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "E-ZPASS REBILL DES:EZP REBILL ID:3633142 INDN:JON *SNOW CO ID:0000284343 WEB",
+                "amount": -14.96,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-01",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1729 FOR 04/01/24",
+                "amount": -6.3,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-03",
+                "description": "E-ZPASS REBILL DES:EZP REBILL ID:4437850 INDN:JON *SNOW CO ID:0000284343 WEB",
+                "amount": -16.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-04",
+                "description": "E-ZPASS REBILL DES:EZP REBILL ID:4813949 INDN:JON *SNOW CO ID:0000284343 WEB",
+                "amount": -6.25,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-05",
+                "description": "PURCHASE 0405 Patreon* Membership Internet CA",
+                "amount": -3.19,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-05",
+                "description": "Online scheduled transfer to SAV 1234 Confirmation# 1852741234",
+                "amount": -25.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-05",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/05/24",
+                "amount": -0.81,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-08",
+                "description": "CHECKCARD 0405 GEICO *AUTO 800-841-3000 DC 24692164096103234084535 RECURRING",
+                "amount": -106.15,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-08",
+                "description": "CHECKCARD 0406 GOOGLE *Niantic Inc 855-836-3987 CA 24692164097103976444532",
+                "amount": -1.05,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-08",
+                "description": "WIRE TYPE:WIRE OUT DATE:240408 TIME:0436 ET TRN:2024040800067991 SERVICE REF:244883 BNF:MAYA MURPHY ID:662398905 BNF BK: JPMORGAN CHASE BANK, N. ID:0002 PMT DET:2JHWJ4854",
+                "amount": -9000.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-08",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/08/24",
+                "amount": -1.8,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-09",
+                "description": "CHECKCARD 0409 NIGHT SPIRIT STUDIO HTTPSWWW.NIGHCA",
+                "amount": -7.75,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-09",
+                "description": "MICHAELS STORE 04/09 #000227990 PURCHASE 1919 BOSTON PST R GUIFORD CT",
+                "amount": -16.98,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-09",
+                "description": "THE FRESH MARK 04/09 #000715361 PURCHASE THE FRESH MARKET GUILFORD CT",
+                "amount": -30.02,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-09",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/09/24",
+                "amount": -1.25,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-10",
+                "description": "CHECKCARD 0409 TRUMBULL TAXCOLL 888-8916064 CT 24377354101000002312803",
+                "amount": -3.95,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-10",
+                "description": "CHECKCARD 0409 TRUMBULL TAXCOLL 888-8916064 CT 24377354101000002312761",
+                "amount": -225.9,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-10",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/10/24",
+                "amount": -0.15,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-11",
+                "description": "CHECKCARD 0410 WEGMANS MONTVALE #105 MONTVALE NJ",
+                "amount": -45.45,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-11",
+                "description": "ALIEXPRESS DES:IAT PAYPAL ID:1033686577870 INDN:JON SNOW CO ID:XXXXXXXXXX IAT PMT INFO: WEB 000000000000001525",
+                "amount": -15.25,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-11",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/11/24",
+                "amount": -0.55,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-12",
+                "description": "MOBILE PURCHASE 0411 TST* SQ PIZZA MONTVALE Montvale NJ",
+                "amount": -17.93,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-12",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/12/24",
+                "amount": -0.07,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-15",
+                "description": "PURCHASE 0412 DISCORD* NITROCLASSICM HTTPSDISCORD.CA",
+                "amount": -4.99,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-15",
+                "description": "CHECKCARD 0413 GOOGLE *FI MFL2BV g.co/helppay#CA 24692164104109979850865 RECURRING",
+                "amount": -71.56,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-15",
+                "description": "MOBILE PURCHASE 0414 HEILUNG TOURING 165-02396947 PA",
+                "amount": -35.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-15",
+                "description": "MOBILE PURCHASE 0413 SQ *THE HANOVER THEATRE Worcester MA",
+                "amount": -7.2,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-15",
+                "description": "CHECKCARD 041406711 - MERCANTILE CENT WORCESTER MA",
+                "amount": -15.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-15",
+                "description": "E-ZPASS REBILL DES:EZP REBILL ID:7914685 INDN:JON *SNOW CO ID:0000284343 WEB",
+                "amount": -6.25,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-15",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/15/24",
+                "amount": -1.25,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-17",
+                "description": "CHECKCARD 0416 GOOGLE *Pokemon 855-836-3987 CA 24692164107102738729428",
+                "amount": -2.68,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-17",
+                "description": "SAVERS - 1156 04/17 #000855631 PURCHASE 3137 BERLIN TURNPI NEWINGTON CT",
+                "amount": -83.37,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-17",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/17/24",
+                "amount": -0.95,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-18",
+                "description": "CHECKCARD 0418 Etsy Brooklyn NY",
+                "amount": -3.19,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-18",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/18/24",
+                "amount": -0.81,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-19",
+                "description": "CHECKCARD 0417 ARBYS 7861 NEWINGTON CT",
+                "amount": -11.15,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-19",
+                "description": "CHECKCARD 0419 Etsy Brooklyn NY",
+                "amount": -7.98,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-19",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/19/24",
+                "amount": -0.87,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-22",
+                "description": "CHECKCARD 0419 CLINTON GOODWILL 5440 CLINTON CT",
+                "amount": -35.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-22",
+                "description": "CHECKCARD 0419 JOANN STORES #701 CLINTON CT",
+                "amount": -36.35,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-22",
+                "description": "CHECKCARD 0419 GOOGLE *Niantic Inc g.co/helppay#CA 24692164111105233743327",
+                "amount": -3.18,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-22",
+                "description": "CHECKCARD 0421 GOOGLE *NAVER WEBTOON g.co/helppay#CA 24692164112106394041526",
+                "amount": -5.31,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-22",
+                "description": "PURCHASE 0421 SP MEYSPRING.COM HTTPSMEYSPRINFL",
+                "amount": -51.96,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-22",
+                "description": "CHECKCARD 0421 GOOGLE *Niantic Inc 855-836-3987 CA 24692164112106805384432",
+                "amount": -1.05,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-22",
+                "description": "PAYPAL DES:INST XFER ID:PATREON MEMBER INDN:JON SNOW CO ID:PAYPALSI77 WEB",
+                "amount": -1.06,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-22",
+                "description": "KEEP THE CHANGE TRANSFER TO ACCT 1234 FOR 04/22/24",
+                "amount": -3.15,
+                "account": "4567"
+            },
+            {
+                "date": "2024-03-26",
+                "description": "Monthly Maintenance Fee",
+                "amount": -12.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-04-08",
+                "description": "Wire Transfer Fee",
+                "amount": -30.0,
+                "account": "4567"
+            },
+            {
+                "date": "2024-03-26",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 03/25",
+                "amount": 0.9,
+                "account": "1234"
+            },
+            {
+                "date": "2024-03-28",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 03/27",
+                "amount": 1.54,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-02",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/01",
+                "amount": 6.3,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-05",
+                "description": "Online scheduled transfer from CHK 4567 Confirmation# 1852740000",
+                "amount": 25.0,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-08",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/05",
+                "amount": 0.81,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-09",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/08",
+                "amount": 1.8,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-10",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/09",
+                "amount": 1.25,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-11",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/10",
+                "amount": 0.15,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-12",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/11",
+                "amount": 0.55,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-15",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/12",
+                "amount": 0.07,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-16",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/15",
+                "amount": 1.25,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-18",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/17",
+                "amount": 0.95,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-19",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/18",
+                "amount": 0.81,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-22",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/19",
+                "amount": 0.87,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-23",
+                "description": "KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/22",
+                "amount": 3.15,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-08",
+                "description": "Online Banking transfer to CHK 4567 Confirmation# 7341810000",
+                "amount": -30.0,
+                "account": "1234"
+            },
+            {
+                "date": "2024-04-24",
+                "description": "Monthly Maintenance Fee",
+                "amount": -5.0,
+                "account": "1234"
+            }
+        ],
+        "statement_type": "bank_statement",
+        "statement_period": "03/26/24 to 04/24/24",
+        "total_transactions": 84
+    }
+}
