@@ -48,20 +48,11 @@ pip install -r requirements.txt
 python src/pipeline.py
 ```
 
-Expected output. Something like:
+Expected output
 
-```css
-BKOFAMERICA MOBILE 04/05 3900761234 DEPOSIT  -->  deposit
-Online Banking Transfer Conf# Ikaw7j6m0; LANNISTER, TYWIN  -->  purchase
-Online Banking transfer from SAV 1234 Confirmation# 7341811234  -->  purchase
-E-ZPASS REBILL DES:EZP REBILL ID:2018876 INDN:JON *SNOW CO  -->  purchase
-CHECKCARD 0327 GOOGLE *Google Storage 855-836-3987 CA 24692164087108486320595  -->  purchase
-...
-KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/19  -->  deposit
-KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/22  -->  deposit
-Online Banking transfer to CHK 4567 Confirmation# 7341810000  -->  purchase
-Monthly Maintenance Fee  -->  maintenance
-```
+<img src="assets/expected_output.png" alt="Expected output"/>
+
+The pipeline also generates a CSV file (`predictions.csv`) containing the transaction descriptions and their predicted classifications for further analysis or integration with other systems.
 
 ---
 
