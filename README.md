@@ -2,7 +2,7 @@
 
 A model for text classification
 
-This project contains a text classification pipeline to automatically categorize financial transactions (e.g., deposits, withdrawals, purchases).
+This project contains a text classification pipeline to automatically categorize financial transactions (e.g., deposits, transfers, purchases).
 It uses **Python, scikit-learn, gensim, and Word2Vec** for preprocessing and model training.
 
 ---
