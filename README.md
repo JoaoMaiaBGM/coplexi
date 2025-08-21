@@ -77,9 +77,3 @@ pytest tests/
 - Python 3.9+
 - pip
 - virtualenv (recommended)
-
----
-
-### 📄 License
-
-This project is licensed under the MIT License.
