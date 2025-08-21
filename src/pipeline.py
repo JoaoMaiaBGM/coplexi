@@ -11,4 +11,4 @@ if __name__ == "__main__":
 
     w2v_model, clf = train_model(transactions)
 
-    predict_transactions(transactions, w2v_model, clf, limit=50)
+    predict_transactions(transactions, w2v_model, clf, limit=100)
