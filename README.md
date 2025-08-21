@@ -65,14 +65,6 @@ Monthly Maintenance Fee  -->  maintenance
 
 ---
 
-### 🧪 Running Tests
-
-```bash
-pytest tests/
-```
-
----
-
 ### 📌 Requirements
 
 - Python 3.9+
