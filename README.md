@@ -42,24 +42,25 @@ pip install -r requirements.txt
 
 ### ⚡ Usage
 
-#### Train the model
+#### Run pipeline
 
 ```bash
-python src/train.py
-```
-
-This will preprocess the data, train the classifier, and save the model under src/models/.
-
-#### Run predictions
-
-```bash
-python src/predict.py "ATM WITHDRAWAL 04/06 12345678"
+python src/pipeline.py
 ```
 
 Expected output
 
 ```css
-Predicted label: withdrawal
+BKOFAMERICA MOBILE 04/05 3900761234 DEPOSIT  -->  deposit
+Online Banking Transfer Conf# Ikaw7j6m0; LANNISTER, TYWIN  -->  purchase
+Online Banking transfer from SAV 1234 Confirmation# 7341811234  -->  purchase
+E-ZPASS REBILL DES:EZP REBILL ID:2018876 INDN:JON *SNOW CO  -->  purchase
+CHECKCARD 0327 GOOGLE *Google Storage 855-836-3987 CA 24692164087108486320595  -->  purchase
+...
+KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/19  -->  deposit
+KEEPTHECHANGE CREDIT FROM ACCT4567 EFFECTIVE 04/22  -->  deposit
+Online Banking transfer to CHK 4567 Confirmation# 7341810000  -->  purchase
+Monthly Maintenance Fee  -->  maintenance
 ```
 
 ---
