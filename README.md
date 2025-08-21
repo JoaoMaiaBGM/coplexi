@@ -52,7 +52,7 @@ Expected output
 
 <img src="assets/expected_output.png" alt="Expected output"/>
 
-The pipeline also generates a CSV file (`predictions.csv`) containing the transaction descriptions and their predicted classifications for further analysis or integration with other systems.
+The pipeline also generates a CSV file (`predictions.csv`) containing the descriptions and their predicted classifications.
 
 ---
 
