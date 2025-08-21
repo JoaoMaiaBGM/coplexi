@@ -48,7 +48,7 @@ pip install -r requirements.txt
 python src/pipeline.py
 ```
 
-Expected output
+Expected output. Something like:
 
 ```css
 BKOFAMERICA MOBILE 04/05 3900761234 DEPOSIT  -->  deposit
