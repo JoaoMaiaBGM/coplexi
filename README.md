@@ -12,7 +12,7 @@ It uses **Python, scikit-learn, gensim, and Word2Vec** for preprocessing and mod
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/coplexi.git
+git clone git@github.com:JoaoMaiaBGM/coplexi.git
 cd coplexi
 ```
 
