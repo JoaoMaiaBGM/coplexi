@@ -4,7 +4,7 @@ from models.train import train_model
 from models.predict import predict_transactions, exported_predict_transactions
 
 if __name__ == "__main__":
-    with open("src/data/output.json", "r") as f:
+    with open("src/data/dataset_1.json", "r") as f:
         data = json.load(f)
 
     transactions = data["output"]["transactions"]
