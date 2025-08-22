@@ -17,7 +17,7 @@ def predict_transactions(transactions, w2v_model, clf, limit=100):
 
     df = pd.DataFrame(results)
 
-    output = tabulate(df, headers=["Description", "Prediction"], tablefmt="grid", showindex=True, maxcolwidths=[100, None])
+    output = tabulate(df, headers=["Description", "Prediction"], tablefmt="simple_grid", showindex="always")
     print(output)
 
     return df
