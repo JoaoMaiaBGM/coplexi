@@ -10,7 +10,7 @@ from data.supervisioned_labels import load_labels
 def train_model(transactions):
     df_labels = load_labels()
 
-    all_tokens = [preprocess_text(text["description"]) for text in transactions]
+    all_tokens = [preprocess_text(text["narration"]) for text in transactions]
     label_tokens = df_labels["tokens"].tolist()
     corpus = all_tokens + label_tokens
 
