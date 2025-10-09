@@ -2,6 +2,7 @@ import json
 
 from models.train import train_model
 from models.predict import predict_transactions, exported_predict_transactions
+from models.utils import save_model
 
 if __name__ == "__main__":
     with open("src/data/dataset_1.json", "r") as f:
@@ -10,6 +11,8 @@ if __name__ == "__main__":
     transactions = data["output"]["transactions"]
 
     w2v_model, clf = train_model(transactions)
+
+    save_model(w2v_model, clf)
 
     predict_transactions(transactions, w2v_model, clf, limit=100)
     exported_predict_transactions(transactions, w2v_model, clf, limit=100)
